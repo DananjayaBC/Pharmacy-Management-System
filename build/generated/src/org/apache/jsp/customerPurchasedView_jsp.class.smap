@@ -1,0 +1,24 @@
+SMAP
+customerPurchasedView_jsp.java
+JSP
+*S JSP
+*F
++ 0 customerPurchasedView.jsp
+customerPurchasedView.jsp
+*L
+5,31:45
+36,6:77
+41,53:83
+94,2:137
+95,2:139
+97,2:142
+98,60:144
+158,16:205
+173,3:221
+176,9:224,3
+185:251
+186:252,3
+187,4:255
+191,2:260
+192,129:262
+*E

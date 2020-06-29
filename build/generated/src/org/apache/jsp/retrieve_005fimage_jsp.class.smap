@@ -1,0 +1,12 @@
+SMAP
+retrieve_005fimage_jsp.java
+JSP
+*S JSP
+*F
++ 0 retrieve_image.jsp
+retrieve_image.jsp
+*L
+1,11:46
+12,40:56
+51,4:96
+*E
